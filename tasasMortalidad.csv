@@ -3,8 +3,8 @@ Causa de defunción,nombre,Total,edad 0 a 4,edad 5 a 14,edad 15 a 44,edad 45 a 6
 303,Enfermedades isquémicas del corazón,75032,2,10,1450,11984,36504,23998,1082,2,1501,'4,2'
 605,Enfermedades crónicas de las vías respiratorias inferiores,31832,26,10,222,2290,15284,13514,486,0,637,'1,8'
 307,Enfermedades cerebrovasculares,30550,64,56,1202,5312,14942,8782,192,0,611,'1,7'
-999,COVID-19,18000,,,,,,,,,360,1
 512,Agresiones (homicidios),24764,90,192,19962,3798,648,46,2,26,495,'1,4'
+999,COVID-19,18000,,,,,,,,,360,1
 302,Enfermedades hipertensivas,17540,6,2,208,1840,8182,7002,300,0,351,1
 601,Diabetes mellitus,15326,6,6,544,3490,8090,3110,80,0,307,'0,9'
 609,Resto de enfermedades del sistema digestivo,14874,150,68,854,2656,7230,3836,80,0,297,'0,8'
